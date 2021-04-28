@@ -1,4 +1,4 @@
-# Myfinance
+# MyFinance V1.0
 Personal financial management application 
 
 How to Run Application
