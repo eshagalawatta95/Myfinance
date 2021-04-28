@@ -22,4 +22,4 @@ How to Run Application
 GitHub repo -  https://github.com/eshagalawatta95/Myfinance
 
 Developer - Eshan Harshana Agalawatta
-Contact - esh.agalawatta@gmail.com
+                                       Contact - esh.agalawatta@gmail.com
