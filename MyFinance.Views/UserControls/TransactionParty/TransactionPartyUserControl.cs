@@ -174,6 +174,12 @@ namespace MyFinance.Views.UserControls.TransactionParty
                 SetSelectedTransactionPartyBinder(_transactionPartiesBinders[e.RowIndex]);
             }
         }
+
+        private void TransactionPartyUserControl_Load(object sender, EventArgs e)
+        {
+            codeErrorLabel.Text = "";
+            descriptionErrorLabel.Text = "";
+        }   
     }
 
     class TransactionPartyBinder
