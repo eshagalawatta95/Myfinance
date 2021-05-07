@@ -143,7 +143,8 @@ namespace MyFinance.Service
             TransactionEntity beforeTransaction = await _transactionModel.GetTransactionByIdAsync(transaction.Id);
             await _transactionModel.UpdateTransactionAsync(transaction);
             TransactionEntity afterTransaction = await _transactionModel.GetTransactionByIdAsync(transaction.Id);
-
+            
+            //get diffrent amount
             double differenceIncome = (afterTransaction.IsIncome ? 1 : -1) * afterTransaction.Amount - (beforeTransaction.IsIncome ? 1 : -1) * beforeTransaction.Amount;
 
             double startingBalance = CurrentUser.CurrentBalance;

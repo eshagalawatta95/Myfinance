@@ -275,6 +275,7 @@
             this.Margin = new System.Windows.Forms.Padding(0);
             this.Name = "TransactionPartyUserControl";
             this.Size = new System.Drawing.Size(1792, 1939);
+            this.Load += new System.EventHandler(this.TransactionPartyUserControl_Load);
             this.panel1.ResumeLayout(false);
             this.panel5.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();

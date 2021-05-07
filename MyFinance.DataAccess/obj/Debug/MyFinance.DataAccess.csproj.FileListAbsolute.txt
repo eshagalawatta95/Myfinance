@@ -46,3 +46,28 @@ D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.DataAccess\obj\Debug\MyFinance.Da
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.DataAccess\obj\Debug\MyFinance.DataAccess.csproj.CopyComplete
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.DataAccess\obj\Debug\FinAndTime.DataAccess.dll
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.DataAccess\obj\Debug\FinAndTime.DataAccess.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\FinAndTime.DataAccess.dll.config
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\FinAndTime.DataAccess.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\FinAndTime.DataAccess.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\MyFinance.Entities.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\MyFinance.Enums.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\MyFinance.Methods.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\SimpleInjector.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\System.Data.SQLite.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\MyFinance.Entities.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\MyFinance.Enums.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\MyFinance.Methods.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\SimpleInjector.xml
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\System.Data.SQLite.xml
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\obj\Debug\MyFinance.DataAccess.csprojAssemblyReference.cache
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\obj\Debug\MyFinance.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\obj\Debug\MyFinance.DataAccess.csproj.CopyComplete
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\obj\Debug\FinAndTime.DataAccess.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.DataAccess\obj\Debug\FinAndTime.DataAccess.pdb

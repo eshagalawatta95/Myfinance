@@ -9,3 +9,9 @@ D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.c
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.csproj.CoreCompileInputs.cache
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.dll
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Enums\bin\Debug\MyFinance.Enums.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Enums\bin\Debug\MyFinance.Enums.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.csprojAssemblyReference.cache
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.csproj.CoreCompileInputs.cache
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Enums\obj\Debug\MyFinance.Enums.pdb

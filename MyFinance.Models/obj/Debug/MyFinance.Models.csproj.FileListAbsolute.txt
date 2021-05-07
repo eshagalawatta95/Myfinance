@@ -42,3 +42,26 @@ D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.csproj.CopyComplete
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.dll
 D:\my doc\IIT M.Sc\EAD\CW2\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Models.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Models.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\FinAndTime.DataAccess.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Core.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Entities.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Methods.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\System.Data.SQLite.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Enums.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\SimpleInjector.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Core.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\FinAndTime.DataAccess.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\FinAndTime.DataAccess.dll.config
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Entities.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Methods.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\System.Data.SQLite.xml
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\MyFinance.Enums.pdb
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\bin\Debug\SimpleInjector.xml
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.csprojAssemblyReference.cache
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.csproj.CoreCompileInputs.cache
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.csproj.CopyComplete
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.dll
+C:\Users\eha\Desktop\EAD VIVA\MyFinance\MyFinance.Models\obj\Debug\MyFinance.Models.pdb
